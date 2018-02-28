@@ -3,6 +3,9 @@ Here you will find my codes written to solve data science problems.
 
 The codes will be related to deep learning algorithms like RNN, DNN, CNN, and to machine learning algorithms like Regression, Classification.
 
+Classification
+  * **Employee Attrition** - Using a Recursive Feature Elimination technique figured out key drivers for attrition
+  
 NLP
   * **Tweet Racism Prediction** - Created a LSTM Recurrent Neural Network model in Keras and Tensorflow to predict whether a tweet is racist or not.
   * **Emojify** - Created a LSTM RNN to solve classification problem and predicted emoji from input text
